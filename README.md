@@ -19,7 +19,7 @@ https://razazaheer12.github.io/CodeAlpha_MusicPlayer/
 
 ## 🛠️ Technologies Used
 
-- **HTML5**: Structure and semantic markup for the player interface.
+- **HTML5**: Semantic markup and Audio API
 - **CSS3**: Styling with modern features like gradients, animations, and responsive design.
 - **JavaScript (ES6+)**: Core functionality for audio playback, event handling, and DOM manipulation.
 
@@ -81,12 +81,31 @@ The music player is designed to work seamlessly across various devices:
 
 <img width="959" height="439" alt="image" src="https://github.com/user-attachments/assets/ca250ddb-9dd5-4955-a22d-d19d2aafa183" />
 
+## 🎓 What I Learned
+
+**This project helped me understand:**
+
+*How to work with the Web Audio API
+*Creating smooth animations with CSS
+*Building responsive layouts for all devices
+*Event-driven programming in JavaScript
+*User experience design principles
+*Project organization and documentation
+
 ## 👨‍💻 Author
 
 **Raza Zaheer**
 
 * GitHub: [https://github.com/razazaheer12](https://github.com/razazaheer12)
 * LinkedIn: [https://www.linkedin.com/in/raza-zaheer-416745340/](https://www.linkedin.com/in/raza-zaheer-416745340/)
+
+## 🙏 Acknowledgments
+
+*CodeAlpha - For providing this amazing internship opportunity
+*The Weeknd - For the awesome music used in the demo
+*Spotify - For design inspiration
+*Font Awesome - For icons (if used)
+*Google Fonts - For typography (if used)
 
 ## 🎓 Internship
 
@@ -113,15 +132,10 @@ Feel free to reach out or open an issue. I'm always happy to help!
 
 Made with ❤️ by Raza Zaheer
 
-## 🙏 Acknowledgments
-
-- Built as part of the CodeAlpha internship program.
-- Inspired by modern music streaming applications.
-- Audio files sourced from The Weeknd's official releases (for demonstration purposes).
-
 ---
 
 Enjoy your music! 🎧✨
+
 
 
 
