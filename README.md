@@ -96,12 +96,12 @@ The music player is designed to work seamlessly across various devices:
 
 **This project helped me understand:**
 
-**How to work with the Web Audio API**
-**Creating smooth animations with CSS**
-**Building responsive layouts for all devices**
-**Event-driven programming in JavaScript**
-**User experience design principles**
-**Project organization and documentation**
+- How to work with the Web Audio API
+- Creating smooth animations with CSS
+- Building responsive layouts for all devices
+- Event-driven programming in JavaScript
+- User experience design principles
+- Project organization and documentation
 
 ## 👨‍💻 Author
 
@@ -111,8 +111,6 @@ The music player is designed to work seamlessly across various devices:
 * LinkedIn: [https://www.linkedin.com/in/raza-zaheer-416745340/](https://www.linkedin.com/in/raza-zaheer-416745340/)
 
 ## 🙏 Acknowledgments
-
-🙏 Acknowledgments
 
 - CodeAlpha For providing this amazing internship opportunity
 - The Weeknd For the awesome music used in the demo
@@ -148,6 +146,7 @@ Made with ❤️ by Raza Zaheer
 ---
 
 Enjoy your music! 🎧✨
+
 
 
 
