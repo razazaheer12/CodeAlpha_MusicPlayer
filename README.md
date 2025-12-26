@@ -85,10 +85,10 @@ The music player is designed to work seamlessly across various devices:
 **Desktop View**
 <img width="959" height="439" alt="image" src="https://github.com/user-attachments/assets/ca250ddb-9dd5-4955-a22d-d19d2aafa183" />
 
-**Mobile View**
+## Mobile View
 <img width="208" height="368" alt="image" src="https://github.com/user-attachments/assets/9ed8cadb-7fa2-4a73-ae55-563f37b9c3c0" />
 
-**Tablet View**
+## Tablet View**
 <img width="565" height="332" alt="image" src="https://github.com/user-attachments/assets/66f0c52b-b5c0-4023-8e51-bff5097bd5a5" />
 
 
@@ -146,6 +146,7 @@ Made with ❤️ by Raza Zaheer
 ---
 
 Enjoy your music! 🎧✨
+
 
 
 
