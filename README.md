@@ -1,6 +1,6 @@
 # 🎵 CodeAlpha Music Player
 
-A sleek, responsive web-based music player built with HTML, CSS, and JavaScript. Enjoy your favorite tracks with an intuitive interface featuring playlist management, volume control, autoplay, and smooth animations.
+A premium Spotify-inspired music player built with vanilla HTML, CSS, and JavaScript. Features include play/pause controls, playlist management, progress tracking, volume control, and autoplay functionality. Fully responsive design optimized for all devices from mobile to desktop. Developed as part of CodeAlpha Web Development Internship.
 
 <img width="959" height="439" alt="image" src="https://github.com/user-attachments/assets/e1284372-e623-41d7-b2b7-c615e338a730" />
 
@@ -146,6 +146,7 @@ Made with ❤️ by Raza Zaheer
 ---
 
 Enjoy your music! 🎧✨
+
 
 
 
