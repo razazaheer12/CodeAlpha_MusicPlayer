@@ -2,6 +2,10 @@
 
 A sleek, responsive web-based music player built with HTML, CSS, and JavaScript. Enjoy your favorite tracks with an intuitive interface featuring playlist management, volume control, autoplay, and smooth animations.
 
+## 🔗 Live Demo
+
+https://razazaheer12.github.io/CodeAlpha_MusicPlayer/
+
 ## 🌟 Features
 
 - **🎶 Playlist Management**: Browse and select from a curated playlist of songs.
@@ -97,4 +101,5 @@ This project is open-source and available under the [MIT License](https://openso
 
 Enjoy your music! 🎧✨
 #
+
 
