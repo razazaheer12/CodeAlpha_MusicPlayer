@@ -77,6 +77,21 @@ The music player is designed to work seamlessly across various devices:
 - **Custom Scrollbars**: Styled scrollbars that match the overall theme.
 - **Hover Effects**: Interactive elements that respond to user interaction.
 
+## 📸 Screenshots
+
+<img width="959" height="439" alt="image" src="https://github.com/user-attachments/assets/ca250ddb-9dd5-4955-a22d-d19d2aafa183" />
+
+## 👨‍💻 Author
+
+**Raza Zaheer**
+
+* GitHub: [https://github.com/razazaheer12](https://github.com/razazaheer12)
+* LinkedIn: [https://www.linkedin.com/in/raza-zaheer-416745340/](https://www.linkedin.com/in/raza-zaheer-416745340/)
+
+## 🎓 Internship
+
+This project was developed as part of the **CodeAlpha Web Development Internship Program**
+
 ## 🤝 Contributing
 
 Contributions are welcome! If you'd like to improve this music player:
@@ -91,6 +106,13 @@ Contributions are welcome! If you'd like to improve this music player:
 
 This project is open-source and available under the [MIT License](https://opensource.org/licenses/MIT).
 
+⭐ If you found this project helpful, please give it a star!
+
+## 📧 Questions or Feedback?
+Feel free to reach out or open an issue. I'm always happy to help!
+
+Made with ❤️ by Raza Zaheer
+
 ## 🙏 Acknowledgments
 
 - Built as part of the CodeAlpha internship program.
@@ -100,6 +122,9 @@ This project is open-source and available under the [MIT License](https://openso
 ---
 
 Enjoy your music! 🎧✨
-#
+
+
+
+
 
 
