@@ -114,11 +114,11 @@ The music player is designed to work seamlessly across various devices:
 
 🙏 Acknowledgments
 
--CodeAlpha For providing this amazing internship opportunity
--The Weeknd For the awesome music used in the demo
--Spotify For design inspiration
--Font Awesome For icons (if used)
--Google Fonts For typography (if used)
+- CodeAlpha For providing this amazing internship opportunity
+- The Weeknd For the awesome music used in the demo
+- Spotify For design inspiration
+- Font Awesome For icons (if used)
+- Google Fonts For typography (if used)
 
 ## 🎓 Internship
 
@@ -148,6 +148,7 @@ Made with ❤️ by Raza Zaheer
 ---
 
 Enjoy your music! 🎧✨
+
 
 
 
